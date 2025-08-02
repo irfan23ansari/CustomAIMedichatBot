@@ -15,7 +15,7 @@ import { Images } from './src/Assets/Images';
 const DoctorChat = () => {
 
   // OpenRouter API key for authentication
-  const OPENROUTER_API_KEY = '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';
+  const OPENROUTER_API_KEY = 'OPENROUTERAPIKEY';
 
   // State to manage chat messages, input text, loading state, and medical keywords
   const [messages, setMessages] = useState([
